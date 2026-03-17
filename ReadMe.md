@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Estou estudando informática no IFC<br>Estou procurando ajuda com boas práticas de Git<br>Atualmente estou aprendendo Java<br>Pergunte-me sobre Excel e VBA<br>Gosto de games, sei montar PC
 
 
